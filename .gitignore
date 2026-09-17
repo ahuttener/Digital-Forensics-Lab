@@ -1,0 +1,12 @@
+# Forensic environment
+*.tar
+*.zip
+*.img
+*.raw
+*.plist
+iLEAPP_Reports_*/
+ALEAPP_Reports_*/
+
+# OS
+.DS_Store
+Thumbs.db
